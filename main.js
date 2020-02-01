@@ -32,6 +32,6 @@ function min(values) {
 	return minValues;
 }
 
-var values = [10, 2, -18, 27, 237, 0]
+var values = [120, 52, 12, 27, -237, 0]
 
 show(min(values));
